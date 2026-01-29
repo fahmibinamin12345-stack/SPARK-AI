@@ -1,0 +1,7 @@
+{
+  "name": "SPARK AI",
+  "description": "A high-performance AI workspace featuring Spark Default, Spark Pro, and Spark Beta, powered by Gemini. Includes a coin-based reward system and premium access features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
